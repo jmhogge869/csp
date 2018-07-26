@@ -20,9 +20,7 @@ video {
 
 
 #main {
-	height: 383px;
-	width: 533px;
-	padding-top: 50px;
+	border: none;
 }
 
 #copyright {
